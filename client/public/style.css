@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  color: #e4e6eb;
+  background-color: #18191a;
+}
+
+button:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: white;
+  opacity: 0.6;
+}
